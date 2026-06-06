@@ -1,6 +1,6 @@
 # PCA-EXP-5-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.
-## NAME:PREM PRASANTH J
-## REG NO: 2305001028
+## NAME:D.Vishwa
+## REG NO: 2305001034
 
 ## Aim:
 To implement Matrix Multiplication using CUDA C on the GPU and measure the elapsed execution time.
